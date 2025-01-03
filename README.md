@@ -1,1 +1,1 @@
-yarn add styled-components react-icons e3nr8LDIi0
+yarn add styled-components react-icons
